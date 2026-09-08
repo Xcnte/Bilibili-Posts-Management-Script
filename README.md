@@ -2,6 +2,8 @@
 
 帮助B站用户管理个人动态的脚本，支持动态批量删除 / 取关
 
+基于 [动态管理]([https://markdown.com.cn](https://greasyfork.org/zh-CN/scripts/387046-%E5%8A%A8%E6%80%81%E7%AE%A1%E7%90%86)) 二次开发
+
 ## 如何安装
 将 `Script.js` 里的代码直接复制粘贴到油猴插件的配置里
 
